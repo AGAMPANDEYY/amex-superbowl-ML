@@ -8,21 +8,6 @@ This project focuses on developing a machine learning model to predict the winni
 ![image](https://github.com/user-attachments/assets/ec53797f-53c3-48fa-b202-d7ae2249b40c)
 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-  - [Data Sources](#data-sources)
-  - [Data Description](#data-description)
-- [Features](#features)
-- [Modeling](#modeling)
-  - [Algorithms](#algorithms)
-  - [Evaluation Metrics](#evaluation-metrics)
-- [Code Notebook Overview](#code-notebook-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 The T20 Match Prediction Challenge is part of the 2024 Amex Campus Super Bowl Competition, where participants are tasked with building a predictive model for T20 cricket matches. This project utilizes sports analytics to provide insights into match outcomes based on historical data.
 
