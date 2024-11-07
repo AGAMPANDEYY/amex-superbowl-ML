@@ -82,14 +82,3 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-To run the prediction model:
-
-1. Prepare your dataset according to the specifications outlined in the data description.
-2. Execute the main script:
-
-``` bash
-python main.py --train_data path/to/train_data.csv --test_data path/to/test_data.csv
-The results will be saved in a specified output directory.
-```
