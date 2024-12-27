@@ -2,6 +2,11 @@
 
 # T20 Match Prediction Challenge-- Decision Science Track Amex Superbowl-2024
 
+## Members
+- [Hemant Bidasaria](https://github.com/Bidshem)
+- [Moulik Gupta](https://github.com/kenkaneki27)
+- [Agam Pandey](https://github.com/AGAMPANDEYY)
+
 ## Overview
 This project focuses on developing a machine learning model to predict the winning team in T20 cricket matches using historical data. The model leverages various features derived from player statistics, team performance, and match conditions to enhance prediction accuracy.
 
